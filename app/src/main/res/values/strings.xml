@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ProjetTAC</string>
+    <string name="content_description_film">Description of the movie</string>
+    <string name="content_description_image">Image of the movie</string>
+    <string name="search">Rechercher</string>
+    <string name="grid_layout_manager">Grid Layout Manager</string>
+    <string name="linear_layout_manager">Linear Layout Manager</string>
+    <string name="textview">TextView</string>
+    <string name="ajouter_aux_favoris">Ajouter aux favoris</string>
+    <string name="todo">TODO</string>
+    <string name="empty_heart">empty_heart</string>
+    <string name="movie_image">movie_image</string>
+    <string name="loading">Chargement...</string>
+    <string name="tab1">tab1</string>
+    <string name="tab2">tab2</string>
+    <string name="image_du_film" />
+    <string name="no_internet_connection">Vous n\'êtes pas connecté à Internet</string>
+    <string name="movie_title">movie_title</string>
+</resources>
